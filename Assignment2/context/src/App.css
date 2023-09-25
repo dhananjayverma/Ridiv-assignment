@@ -1,0 +1,28 @@
+/* App.css */
+.app {
+  text-align: center;
+}
+
+.header {
+  background-color: #f0f0f0;
+  padding: 1rem;
+}
+
+.header.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.content {
+  padding: 2rem;
+}
+
+.content.light {
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.content.dark {
+  background-color: #333;
+  color: #fff;
+}
